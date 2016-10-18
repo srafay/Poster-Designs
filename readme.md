@@ -5,4 +5,4 @@ This repo only contains posters / templates / card designs for
 * Green Society (NEDUET)
 
 ### Videos and backups (fonts, icons, legends) are uploaded to dropbox
-* will update link soon
+* https://www.dropbox.com/home/Graphics%20-%20Videos%20and%20backup
